@@ -14,7 +14,7 @@ OXLGR // OFFENSIVE XSYSTEM LOGIC. GUARDED RECON.
 
 ---
 
-## Superficie Fría
+## Sf
 
 Escribo código porque la realidad ya viene escrita.
 

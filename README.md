@@ -14,59 +14,17 @@ OXLGR // OFFENSIVE XSYSTEM LOGIC. GUARDED RECON.
 
 ---
 
-## Sf
+## Superficie Fría
 
-Escribo código porque la realidad ya viene escrita.
+Escribo código porque la realidad ya viene escrita. No en limpio, no en una sintaxis amable, no en un archivo que pueda abrirse sin dejar algo de uno adentro; pero está escrita. En una máquina que tarda demasiado en responder, en una mano que tiembla antes de confirmar una transferencia, en una contraseña repetida por cansancio, en un proceso que aparece donde nadie lo llamó, en una carpeta movida de noche, en una persona que dice “no sé qué pasó” cuando el sistema ya lo dijo todo.
 
-No en limpio.  
-No en una sintaxis amable.  
-No en un archivo que pueda abrirse sin dejar algo de uno adentro.
-
-Pero está escrita.
-
-En una máquina que tarda demasiado en responder.  
-En una mano que tiembla antes de confirmar una transferencia.  
-En una contraseña repetida por cansancio.  
-En un proceso que aparece donde nadie lo llamó.  
-En una carpeta movida de noche.  
-En una persona que dice “no sé qué pasó” cuando el sistema ya lo dijo todo.
-
-Todo es código.
-
-La carne también.  
-El miedo también.  
-La vergüenza también.  
-La urgencia también.  
-El deseo de apretar rápido también.
-
-Las máquinas son la parte fácil.
-
-Las personas compilan peor.
+Todo es código. La carne también. El miedo también. La vergüenza también. La urgencia también. El deseo de apretar rápido también. Las máquinas son la parte fácil; las personas compilan peor.
 
 ```text
 C++  ·  Rust  ·  Python  ·  Ruby  ·  Assembly  ·  JavaScript
 ```
 
-Trabajo donde se mezclan proceso, rastro, nervio y archivo.
-
-Ventanas.  
-Memoria.  
-Residuos.  
-Casos.  
-Ruido.  
-Evidencia.  
-Herramientas pequeñas con borde frío.
-
-No me interesa el software que parece milagro.
-
-Me interesa el software que deja marcas.  
-El que puede abrirse.  
-El que soporta ser mirado.  
-El que no se comporta como sacerdote.
-
-La fe es para los templos.
-
-El código tiene que hablar.
+No me interesa el software que se comporta como milagro. Me interesa el mecanismo que puede abrirse, el rastro que permanece, la interfaz que no pide fe, la herramienta que muestra lo que tocó y conserva la marca suficiente para volver a leerla. La fe es para los templos. El código tiene que hablar.
 
 ---
 
@@ -77,56 +35,17 @@ Offensive xSystem Logic  -> lógica de presión, borde, lectura hostil.
 Guarded Recon            -> observación bajo nombre cerrado.
 ```
 
-OXLGR es el nombre de esta parte del trabajo.
+OXLGR es el nombre de esta parte del trabajo: la parte que no mira una computadora como objeto, sino como síntoma; la parte que entiende que una interfaz educada también puede mentir; la parte que escucha el ruido hasta que el ruido muestra dientes.
 
-La parte que no mira una computadora como objeto, sino como síntoma.  
-La parte que entiende que una interfaz educada también puede mentir.  
-La parte que escucha el ruido hasta que el ruido muestra dientes.
-
-Un sistema no falla de golpe.
-
-Primero murmura.
-
-Un scam no empieza en el enlace.
-
-Empieza en la presión.
-
-Un archivo no desaparece solo.
-
-Deja sombra.
-
-Una persona no cae porque sea débil.
-
-Cae porque alguien escribió código sobre su miedo.
-
-Eso también es ingeniería.
-
-Más sucia.  
-Más vieja.  
-Más humana.
+Un sistema no falla de golpe: primero murmura. Un scam no empieza en el enlace: empieza en la presión. Un archivo no desaparece solo: deja sombra. Una persona no cae porque sea débil; cae porque alguien escribió código sobre su miedo. Eso también es ingeniería, más sucia, más vieja, más humana.
 
 ```text
 Cyber Tools from Oxxlogor and the Warden of the Flesh.
 ```
 
-Oxxlogor marca la retícula: nodo, bucle, rastro, repetición, cálculo negro, patrón hostil.
+Oxxlogor marca la retícula: nodo, bucle, rastro, repetición, cálculo negro, patrón hostil. La Celadora de la Carne marca la otra capa: pulso, impulso, hambre, memoria, nervio, respuesta. Entre ambos está la red; no solamente internet, sino la red antigua, la que pasa por la atención, se mete en el hábito, usa deuda, rostro, cansancio, urgencia y nombre, y convierte una emoción en vector.
 
-La Celadora de la Carne marca la otra capa: pulso, impulso, hambre, memoria, nervio, respuesta.
-
-Entre ambos está la red.
-
-No solamente internet.
-
-La red antigua.
-
-La que pasa por la atención.  
-La que se mete en el hábito.  
-La que usa deuda, rostro, cansancio, urgencia y nombre.  
-La que convierte una emoción en vector.
-
-La Celadora no necesita cables.
-
-La carne siempre fue una interfaz.
+La Celadora no necesita cables. La carne siempre fue una interfaz.
 
 ---
 
@@ -145,45 +64,17 @@ COLDCASE        -> manejo de casos forenses
 NERVECHECK      -> diagnóstico para usuario común
 ```
 
-Cada nombre es una habitación.
+Cada nombre es una habitación dentro del mismo edificio. Hay herramientas para ordenar, herramientas para presionar, herramientas para mirar hasta que algo se contradiga. Algunas existen para limpiar una superficie; otras, para descubrir por qué esa superficie estaba sucia. Algunas trabajan sobre archivos, otras sobre procesos, otras sobre rastros, otras sobre esa zona incómoda donde una máquina y una persona empiezan a parecer parte del mismo error.
 
-Algunas tienen luz.  
-Algunas tienen cerradura.  
-Algunas todavía huelen a metal fresco.
-
-No todo instrumento necesita explicar su altar.
-
-Hay herramientas para ordenar.  
-Hay herramientas para presionar.  
-Hay herramientas para mirar hasta que algo se contradiga.
-
-Lo importante no es si una herramienta parece limpia.
-
-Lo importante es qué revela cuando toca una superficie.
+Lo importante no es si una herramienta parece limpia. Lo importante es qué revela cuando toca una superficie.
 
 ---
 
 ## Método del Filo
 
-No escribo para decorar repositorios.
+No escribo para decorar repositorios. Escribo para dejar mecanismos. Un mecanismo útil tiene borde, un borde útil tiene límite, y un límite útil deja marca. Si una herramienta toca algo, debe quedar un rastro; si mira algo, debe poder volver a mirarse; si ordena ruido, no debe volverse ruido.
 
-Escribo para dejar mecanismos.
-
-Un mecanismo útil tiene borde.  
-Un borde útil tiene límite.  
-Un límite útil deja marca.
-
-Si una herramienta toca algo, debe quedar un rastro.  
-Si mira algo, debe poder volver a mirarse.  
-Si ordena ruido, no debe volverse ruido.
-
-Lo invisible sirve demasiado bien a los cobardes.
-
-Prefiero la máquina que muestra la cicatriz.
-
-Prefiero el archivo que conserva el gesto.
-
-Prefiero el sistema que, cuando miente, lo hace con una forma que pueda ser cazada.
+Lo invisible sirve demasiado bien a los cobardes. Prefiero la máquina que muestra la cicatriz, el archivo que conserva el gesto, el sistema que, cuando miente, lo hace con una forma que pueda ser cazada. No todo debe explicarse al primer vistazo; pero aquello que se ejecuta debe tener cuerpo, sombra y consecuencia.
 
 ---
 
@@ -195,20 +86,9 @@ Mirë'nām bajo sello.
 Nāel bī testigo. Señal bajo nombre.
 ```
 
-Hay nombres que sirven para entrar.
+Hay nombres que sirven para entrar, nombres que sirven para cerrar y nombres que no explican nada, pero ordenan el cuarto apenas aparecen. No dejo el mapa completo en público. El mapa completo atrae al peregrino equivocado.
 
-Hay nombres que sirven para cerrar.
-
-Hay nombres que no explican nada y aun así ordenan el cuarto.
-
-No dejo el mapa completo en público.
-
-El mapa completo atrae al peregrino equivocado.
-
-Noveno Velo.  
-Nombre velado.  
-Código bajo carne.  
-Rastro bajo máquina.
+Noveno Velo. Nombre velado. Código bajo carne. Rastro bajo máquina.
 
 ---
 
@@ -218,11 +98,7 @@ Rastro bajo máquina.
 Facebook: https://www.facebook.com/Str0ma3/
 ```
 
-Reportes, pruebas, notas de uso, documentación, errores raros.
-
-Material sensible: censurado primero.
-
-Traé solo aquello que pueda estar sobre la mesa.
+Reportes, pruebas, notas de uso, documentación, errores raros. Material sensible: censurado primero. Traé solo aquello que pueda estar sobre la mesa.
 
 ---
 

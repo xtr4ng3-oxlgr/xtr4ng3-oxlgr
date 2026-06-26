@@ -14,7 +14,7 @@ OXLGR // OFFENSIVE XSYSTEM LOGIC. GUARDED RECON.
 
 ---
 
-## Superficie Fría
+## SF
 
 Escribo código porque la realidad ya viene escrita. No en limpio, no en una sintaxis amable, no en un archivo que pueda abrirse sin dejar algo de uno adentro; pero está escrita. En una máquina que tarda demasiado en responder, en una mano que tiembla antes de confirmar una transferencia, en una contraseña repetida por cansancio, en un proceso que aparece donde nadie lo llamó, en una carpeta movida de noche, en una persona que dice “no sé qué pasó” cuando el sistema ya lo dijo todo.
 

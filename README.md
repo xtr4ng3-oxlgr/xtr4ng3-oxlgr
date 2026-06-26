@@ -23,9 +23,6 @@ Todo es código. La carne también. El miedo también. La vergüenza también. L
 ```text
 C++  ·  Rust  ·  Python  ·  Ruby  ·  Assembly  ·  JavaScript
 ```
-
-No me interesa el software que se comporta como milagro. Me interesa el mecanismo que puede abrirse, el rastro que permanece, la interfaz que no pide fe, la herramienta que muestra lo que tocó y conserva la marca suficiente para volver a leerla. La fe es para los templos. El código tiene que hablar.
-
 ---
 
 ## OXLGR
@@ -55,6 +52,7 @@ La Celadora no necesita cables. La carne siempre fue una interfaz.
 F.A.R.O.        -> orden forense local
 CIVITAS         -> estructura cívica de casos e inteligencia práctica
 EIDOLON         -> identidad, rastro y residuo digital
+LICTOR          -> brazo ejecutor de CIVITAS: triage de indicadores, presión y umbral de caso
 WARDEN-11       -> patrulla de superficie, señales y postura
 RAVENLOCK v2    -> capa sellada de utilidad
 BLACKLAMP       -> limpieza e inspección controlada

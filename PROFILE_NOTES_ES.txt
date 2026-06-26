@@ -1,0 +1,12 @@
+NOTAS DE ESTILO
+
+Versión armada para que el perfil no suene corporativo ni demasiado explicativo.
+
+Cambios clave:
+- Se quitó el bloque de “Ley Operativa”.
+- Se retiraron enumeraciones que parecían checklist empresarial.
+- Se evitó presentarte como solo defensor.
+- Se dejó una ambigüedad controlada: inspección, presión, borde, rastro, herramienta, superficie.
+- No se nombran términos que bajen el aura del perfil.
+- La ética queda sugerida por forma y límites, no explicada como cartel.
+- El centro es: código, máquinas, personas, miedo, carne, señal, Celadora, Oxxlogor y red antigua.

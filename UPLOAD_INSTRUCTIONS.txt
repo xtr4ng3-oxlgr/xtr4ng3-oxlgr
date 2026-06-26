@@ -1,0 +1,23 @@
+INSTRUCCIONES DE SUBIDA — PERFIL GITHUB
+
+1. Crear o abrir el repositorio exactamente llamado:
+   xtr4ng3-oxlgr
+
+2. Subir estos archivos en la raíz:
+   README.md
+   README_EN.md
+   SUITE_FRAGMENT.md
+   assets/oxxlogor.png
+
+3. El README.md queda como perfil principal en español.
+
+4. README_EN.md es el espejo inglés para quien entre desde afuera.
+
+5. En GitHub no hay detección automática real del idioma del navegador dentro del README del perfil.
+   Por eso se deja el selector manual ES / EN arriba.
+
+6. Si querés que el perfil muestre la imagen, respetá la carpeta:
+   assets/oxxlogor.png
+
+7. Commit sugerido:
+   seal: rebuild oxlgr profile surface

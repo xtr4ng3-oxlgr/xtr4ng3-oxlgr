@@ -16,174 +16,136 @@ OXLGR // OFFENSIVE XSYSTEM LOGIC. GUARDED RECON.
 
 ## Cold Surface
 
-I write code because reality is already written.
+I write code because reality always leaves traces.
 
-Not cleanly.  
-Not in a kind syntax.  
-Not in a file you can open without leaving something of yourself inside.
+I don't believe the world is made of lines of code, but it is built on patterns. Rules that almost nobody notices until they fail. Beneath everything lie structures: habits, protocols, routines repeated so many times they become invisible. Code doesn't invent them. It simply makes them visible.
 
-But it is written.
+Reality speaks through logs, timeouts, permissions, and silent failures. It's there in the workstation that suddenly takes too long to respond. In the hand that hesitates before approving a bank transfer. In the password reused out of exhaustion. In a process nobody remembers starting. In a folder that moved during the night. In someone saying, *"I don't know what happened,"* while the system has been writing the entire story for hours.
 
-In a machine that answers too slowly.  
-In a hand shaking before confirming a transfer.  
-In a password repeated out of exhaustion.  
-In a process appearing where nobody called it.  
-In a folder moved at night.  
-In a person saying “I do not know what happened” when the system already said everything.
+Programming taught me that almost nothing happens by accident. Everything leaves a trace. An exception. A record. Even silence has a cause.
 
-Everything is code.
+Machines are honest. When they fail, there's usually a reason. People are different. We live beneath layers of interpretation. We invent stories to justify decisions we had already made. We mistake memory for truth, intuition for evidence, habit for freedom.
 
-Flesh too.  
-Fear too.  
-Shame too.  
-Urgency too.  
-The desire to click too fast too.
+Maybe that's why I write code. Not to control reality, but to learn how to read it. Understanding a system means accepting that you're part of it. Our choices don't emerge from nothing; they're shaped by language, by the tools we build, and by structures we rarely stop to question.
 
-Machines are the easy part.
+Every line of code is a hypothesis about how a small piece of the world behaves. Some survive. Others collapse the moment someone asks a different question.
 
-People compile worse.
+Machines were never the difficult part.
+
+Understanding the people who build them always was.
 
 ```text
 C++  ·  Rust  ·  Python  ·  Ruby  ·  Assembly  ·  JavaScript
 ```
-
-I work where process, trace, nerve and archive get mixed.
-
-Windows.  
-Memory.  
-Residue.  
-Cases.  
-Noise.  
-Evidence.  
-Small instruments with a cold edge.
-
-I do not care for software that looks like a miracle.
-
-I care for software that leaves marks.  
-Software that can be opened.  
-Software that endures being watched.  
-Software that does not behave like a priest.
-
-Faith belongs to temples.
-
-Code has to speak.
 
 ---
 
 ## OXLGR
 
 ```text
-Offensive xSystem Logic  -> pressure logic, edge, hostile reading.
-Guarded Recon            -> observation under a closed name.
+Offensive xSystem Logic -> pressure logic, edge analysis, hostile observation.
+Guarded Recon           -> reconnaissance behind a closed name.
 ```
 
-OXLGR is the name of this side of the work.
+OXLGR is the name I give this side of my work: the side that doesn't see a computer as an object, but as a symptom. The side that knows a polished interface can still lie. The side that keeps listening to the noise until the noise starts showing teeth.
 
-The part that does not look at a computer as an object, but as a symptom.  
-The part that knows a polite interface can also lie.  
-The part that listens to noise until the noise shows teeth.
+A system never breaks all at once—it whispers first.
 
-A system does not fail all at once.
+A scam doesn't begin with the link. It begins with pressure.
 
-First it murmurs.
+A file never simply disappears. It leaves a shadow.
 
-A scam does not begin in the link.
+People don't fall because they're weak. They fall because someone learned how to write code around their fear.
 
-It begins in the pressure.
-
-A file does not disappear alone.
-
-It leaves shadow.
-
-A person does not fall because they are weak.
-
-They fall because someone wrote code over their fear.
-
-That is engineering too.
-
-Dirtier.  
-Older.  
-More human.
+That's engineering too. Older. Dirtier. More human.
 
 ```text
 Cyber Tools from Oxxlogor and the Warden of the Flesh.
 ```
 
-Oxxlogor marks the lattice: node, loop, trace, repetition, black arithmetic, hostile pattern.
+Oxxlogor defines the grid: nodes, loops, traces, repetition, black computation, hostile patterns.
 
-The Warden of the Flesh marks the other layer: pulse, impulse, hunger, memory, nerve, response.
+The Warden of the Flesh defines the other layer: pulse, impulse, hunger, memory, nerves, response.
 
-Between both lives the network.
-
-Not only the internet.
-
-The old network.
-
-The one passing through attention.  
-The one entering habit.  
-The one using debt, face, exhaustion, urgency and name.  
-The one turning emotion into vector.
+Between them lies the network—not just the Internet, but the older network that flows through attention, settles into habit, exploits debt, identity, exhaustion, urgency, and names until an emotion becomes an attack vector.
 
 The Warden needs no cables.
 
-Flesh was always an interface.
+The flesh has always been an interface.
 
 ---
 
 ## Instruments
 
 ```text
-F.A.R.O.        -> local forensic order
-CIVITAS         -> civic case structure and practical intelligence
-EIDOLON         -> identity, trace and digital residue
-WARDEN-11       -> surface patrol, signals and posture
+F.A.R.O.        -> local forensic organization
+CIVITAS         -> civic framework for case management and operational intelligence
+EIDOLON         -> identity, trace, and digital residue
+LICTOR          -> CIVITAS execution layer: indicator triage, pressure analysis, case thresholds
+WARDEN-11       -> surface patrol, signal analysis, operational posture
 RAVENLOCK v2    -> sealed utility layer
-BLACKLAMP       -> cleaning and controlled inspection
+BLACKLAMP       -> controlled inspection and cleanup
 OXLGR Sentinel  -> process and endpoint observation
-SHADOWLINK      -> terminal-side flow
-COLDCASE        -> forensic case handling
-NERVECHECK      -> common-user diagnostics
+SHADOWLINK      -> lateral terminal workflow
+COLDCASE        -> forensic case management
+NERVECHECK      -> diagnostics for everyday users
 ```
 
-Each name is a room.
+Every name is a room inside the same building.
 
-Some have light.  
-Some have locks.  
-Some still smell like fresh metal.
+Some tools organize.
 
-Not every instrument needs to explain its altar.
+Some apply pressure.
 
-There are tools for ordering.  
-There are tools for pressure.  
-There are tools for watching until something contradicts itself.
+Some keep watching until something contradicts itself.
 
-What matters is not whether a tool looks clean.
+Some exist to clean a surface.
+
+Others exist to explain why that surface became dirty in the first place.
+
+Some work on files.
+
+Others on processes.
+
+Others on traces.
+
+Others operate in that uncomfortable space where machines and people begin to look like different sides of the same failure.
+
+What matters isn't whether a tool looks clean.
 
 What matters is what it reveals when it touches a surface.
 
 ---
 
-## Edge Method
+## The Edge Method
 
-I do not write to decorate repositories.
+I don't write software to decorate repositories.
 
-I write to leave mechanisms.
+I write mechanisms.
 
-A useful mechanism has an edge.  
-A useful edge has a limit.  
+A useful mechanism has an edge.
+
+A useful edge has limits.
+
 A useful limit leaves a mark.
 
-If a tool touches something, a trace should remain.  
-If it watches something, it should be possible to watch it back.  
-If it orders noise, it should not become noise.
+If a tool touches something, it should leave a trace.
 
-The invisible serves cowards too well.
+If it observes something, it should be observable in return.
 
-I prefer the machine that shows the scar.
+If it organizes noise, it must never become noise itself.
 
-I prefer the file that preserves the gesture.
+The invisible serves cowards far too well.
 
-I prefer the system that, when it lies, lies in a shape that can be hunted.
+I prefer the machine that exposes its scars.
+
+The file that remembers the gesture.
+
+The system that, when it lies, does so in a shape that can be hunted.
+
+Not everything should explain itself at first glance.
+
+But everything that executes should have weight, shadow, and consequence.
 
 ---
 
@@ -192,48 +154,52 @@ I prefer the system that, when it lies, lies in a shape that can be hunted.
 ```text
 Isqonvēlo // Velārë // Khīztar
 Mirë'nām under seal.
-Nāel bī witness. Signal under name.
+Nāel bī witness. Signal beneath the name.
 ```
 
-Some names are made to enter.
+Some names are meant to open doors.
 
-Some names are made to close.
+Others are meant to close them.
 
-Some names explain nothing and still arrange the room.
+Some explain nothing at all, yet they bring order to a room the moment they appear.
 
-I do not leave the full map in public.
+I don't publish the entire map.
 
-A full map attracts the wrong pilgrim.
+Complete maps attract the wrong pilgrims.
 
-Ninth Veil.  
-Veiled name.  
-Code under flesh.  
-Trace under machine.
+Ninth Veil.
+
+Veiled Name.
+
+Code beneath the flesh.
+
+Trace beneath the machine.
 
 ---
 
 ## Contact
 
 ```text
-Facebook: https://www.facebook.com/Str0ma3/
+Facebook:
+https://www.facebook.com/Str0ma3/
 ```
 
-Reports, tests, usage notes, documentation, strange errors.
+Reports, testing, documentation, field notes, unusual bugs.
 
-Sensitive material: redacted first.
+Sensitive material should be sanitized before sharing.
 
-Bring only what can stand on the table.
+Bring only what belongs on the table.
 
 ---
 
-## End Mark
+## Final Mark
 
 ```text
 xtr4ng3
 xtr4ng3-oxlgr
 
-Mirindor’Aren vāel Nām’Shaelor
-La Orden Mirindórica del Nombre Velado
+Mirindor'Aren vāel Nām'Shaelor
+The Mirindoric Order of the Veiled Name
 ```
 
 ```text

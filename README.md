@@ -16,9 +16,22 @@ OXLGR // OFFENSIVE XSYSTEM LOGIC. GUARDED RECON.
 
 ## SF
 
-Escribo código porque la realidad ya viene escrita. No en limpio, no en una sintaxis amable, no en un archivo que pueda abrirse sin dejar algo de uno adentro; pero está escrita. En una máquina que tarda demasiado en responder, en una mano que tiembla antes de confirmar una transferencia, en una contraseña repetida por cansancio, en un proceso que aparece donde nadie lo llamó, en una carpeta movida de noche, en una persona que dice “no sé qué pasó” cuando el sistema ya lo dijo todo.
+Escribo código porque la realidad siempre deja rastros.
 
-Todo es código. La carne también. El miedo también. La vergüenza también. La urgencia también. El deseo de apretar rápido también. Las máquinas son la parte fácil; las personas compilan peor.
+No creo que el mundo esté hecho de líneas de programación, pero sí de patrones. De reglas que casi nadie ve hasta que fallan. Hay estructuras debajo de las cosas: hábitos, protocolos, decisiones repetidas miles de veces hasta parecer inevitables. El código no las inventa; apenas las hace visibles.
+
+La realidad habla en registros, en tiempos de espera, en permisos, en errores silenciosos. Está en una computadora que tarda demasiado en responder. En una mano que vacila antes de confirmar una transferencia. En una contraseña repetida por cansancio. En un proceso que aparece donde nadie recuerda haberlo iniciado. En una carpeta movida durante la madrugada. En alguien que dice "no sé qué pasó", aunque el sistema lleva horas escribiendo la historia completa.
+
+Programar me enseñó que casi nada ocurre por accidente. Todo deja una huella. Una excepción. Un registro. Incluso el silencio tiene una causa.
+
+Las máquinas son honestas. Si fallan, casi siempre existe un motivo. Las personas, en cambio, viven sobre capas de interpretaciones. Nos contamos historias para justificar decisiones que ya habíamos tomado. Confundimos memoria con verdad, intuición con evidencia, costumbre con libertad.
+
+Quizá por eso escribo código. No para controlar la realidad, sino para aprender a leerla. Porque entender un sistema exige aceptar que uno también forma parte de él. Que nuestras elecciones no nacen en el vacío: están condicionadas por el lenguaje que usamos, por las herramientas que construimos y por las estructuras que rara vez cuestionamos.
+
+Cada línea de código es una hipótesis sobre cómo funciona una parte del mundo. Algunas sobreviven. Otras se rompen en cuanto alguien hace una pregunta distinta.
+
+Las máquinas nunca fueron lo difícil. Lo difícil siempre fue comprender a quienes las programan.
+
 
 ```text
 C++  ·  Rust  ·  Python  ·  Ruby  ·  Assembly  ·  JavaScript
